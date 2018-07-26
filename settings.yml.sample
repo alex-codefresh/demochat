@@ -38,3 +38,4 @@ auth:
   providers: [local]
   local:
     enableRegistration: true
+#
